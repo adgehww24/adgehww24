@@ -1,4 +1,4 @@
-### Hi there 👋
+# 리눅스_명령어
 
 <!--
 **adgehww24/adgehww24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
